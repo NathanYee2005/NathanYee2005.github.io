@@ -1,4 +1,4 @@
-<Hotel xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="https://raw.githubusercontent.com/NathanYee2005/NathanYee2005.github.io/main" xsi:schemaLocation="https://raw.githubusercontent.com/NathanYee2005/NathanYee2005.github.io/main https://raw.githubusercontent.com/NathanYee2005/NathanYee2005.github.io/main/Hotels.xsd">
+<Hotels xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="https://raw.githubusercontent.com/NathanYee2005/NathanYee2005.github.io/main" xsi:schemaLocation="https://raw.githubusercontent.com/NathanYee2005/NathanYee2005.github.io/main https://raw.githubusercontent.com/NathanYee2005/NathanYee2005.github.io/main/Hotels.xsd">
 	<Hotel NearestAirport="Sky Harbor" Rating="4.2">
 		<Name>Westin</Name>
 		<Phone>480-968-8885</Phone>
@@ -122,4 +122,4 @@
 			<Zip>90210</Zip>
 		</Address>
 	</Hotel>
-</Hotel>
+</Hotels>
