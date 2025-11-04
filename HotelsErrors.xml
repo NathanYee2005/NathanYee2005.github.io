@@ -42,7 +42,6 @@
 			<City>Charleston</City>
 			<State>SC</State>
 			<Zip>29401</Zip>
-		</Address>
 	</Hotel>
 	<Hotel NearestAirport="Los Angeles International Airport" Rating="4.8">
 		<Name>Downtown LA Proper Hotel</Name>
