@@ -1,0 +1,124 @@
+<Hotel xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="https://raw.githubusercontent.com/NathanYee2005/NathanYee2005.github.io/main" xsi:schemaLocation="https://raw.githubusercontent.com/NathanYee2005/NathanYee2005.github.io/main https://raw.githubusercontent.com/NathanYee2005/NathanYee2005.github.io/main/Hotels.xsd">
+	<Hotel NearestAirport="Sky Harbor" Rating="4.2">
+		<Name>Westin</Name>
+		<Phone>480-968-8885</Phone>
+		<Phone>800-937-8461</Phone>
+		<Address>
+			<Number>11</Number>
+			<Street>E. 7th St</Street>
+			<City>Tempe</City>
+			<State>AZ</State>
+			<Zip>85281</Zip>
+		</Address>
+	</Hotel>
+	<Hotel Rating="4.7">
+		<Name>Viceroy Chicago</Name>
+		<Phone>312-586-2000</Phone>
+		<Address>
+			<Number>1118</Number>
+			<Street>N. State St</Street>
+			<City>Chicago</City>
+			<State>IL</State>
+			<Zip>60610</Zip>
+		</Address>
+	</Hotel>
+	<Hotel NearestAirport="Milwaukee Mitchell International Airport" Rating="4.6">
+		<Name>The Pfister Hotel</Name>
+		<Address>
+			<Number>424</Number>
+			<Street>E. Wisconsin Ave</Street>
+			<City>Milwaukee</City>
+			<State>WI</State>
+			<Zip>53202</Zip>
+		</Address>
+	</Hotel>
+	<Hotel NearestAirport="Charleston International Airport">
+		<Name>The Restoration Charleston</Name>
+		<Phone>843-948-5350</Phone>
+		<Phone>877-504-0661</Phone>
+		<Address>
+			<Number>75</Number>
+			<Street>Wentworth St</Street>
+			<City>Charleston</City>
+			<State>SC</State>
+			<Zip>29401</Zip>
+	</Hotel>
+	<Hotel NearestAirport="Los Angeles International Airport" Rating="4.8">
+		<Name>Downtown LA Proper Hotel</Name>
+		<Name>Downtown LA Improper Hotel</Name>
+		<Phone>844-631-0595</Phone>
+		<Address>
+			<Number>1100</Number>
+			<Street>S. Broadway</Street>
+			<City>Los Angeles</City>
+			<State>CA</State>
+			<Zip>90015</Zip>
+		</Address>
+	</Hotel>
+	<Hotel NearestAirport="Newark Liberty International Airport" Rating="4.8">
+		<Name>The Wall Street Hotel</Name>
+		<Phone>646-970-1062</Phone>
+		<Address>
+			<Number>88</Number>
+			<Street>Wall St</Street>
+			<City>New York City</City>
+			<State>NY</State>
+			<Zip>10005</Zip>
+		</Address>
+	</Hotel>
+	<Hotel NearestAirport="Indianapolis International Airport" Rating="4.8">
+		<Name>West Baden Springs Hotel</Name>
+		<Phone>812-406-0365</Phone>
+		<Address>
+			<Number>8670</Number>
+			<Street>W. State Rd 56</Street>
+			<City>West Baden Springs</City>
+			<State>IN</State>
+			<Zip>47432</Zip>
+		</Address>
+	</Hotel>
+	<Hotel NearestAirport="Rhode Island T.F. Green International Airport">
+		<Name>The Brenton Hotel</Name>
+		<Phone>401-371-4971</Phone>
+		<Address>
+			<Number>31</Number>
+			<Street>Americas Cup Ave</Street>
+			<City>Newport</City>
+			<State>RI</State>
+			<Zip>02840</Zip>
+		</Address>
+	</Hotel>
+	<Hotel NearestAirport="Austin-Bergstrom International Airport" Rating="4.7">
+		<Name>Hotel Viata</Name>
+		<Phone>844-597-1150</Phone>
+		<Address>
+			<Number>320</Number>
+			<Street>S. Capital of Texas Hwy</Street>
+			<City>West Lake Hills</City>
+			<State>TX</State>
+			<Zip>78746</Zip>
+		</Address>
+	</Hotel>
+	<Hotel NearestAirport="Asheville Regional Airport" Rating="4.8">
+		<Name>The Windsor Boutique Hotel</Name>
+		<Phone>844-525-5456</Phone>
+		<Address>
+			<Number>36</Number>
+			<Street>Broadway St</Street>
+			<City>Asheville</City>
+			<State>NC</State>
+			<Zip>28801</Zip>
+		</Address>
+	</Hotel>
+	<Hotel NearestAirport="Los Angeles International Airport">
+		<Name>The Maybourne Beverly Hills</Name>
+		<Phone>310-860-7800</Phone>
+		<Address>
+			<Number>225</Number>
+			<Street>N. Canon Dr</Street>
+			<City>Beverly Hills</City>
+			<State>CA</State>
+			<Zip>90210</Zip>
+		</Address>
+	</Hotel>
+</Hotel>
